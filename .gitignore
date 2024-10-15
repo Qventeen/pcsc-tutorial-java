@@ -1,3 +1,5 @@
 *.class
 *.sublime-workspace
 example-test
+.idea
+*.iml
